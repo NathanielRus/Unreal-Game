@@ -14,3 +14,4 @@ The mobs patroling the maze in the fog use sequences to pratrol and on collision
 I used 3 pressure plates that needed to be pressed all at the same time to open the door. This was accomplished by picking up boxes and placing them on the buttons.
 ![BoxButton](https://github.com/NathanielRus/Unreal-Game/blob/main/Live%20Project/BoxButton.PNG)
 ![Buttons](https://github.com/NathanielRus/Unreal-Game/blob/main/Live%20Project/Buttons.PNG)
+![PickUp](https://github.com/NathanielRus/Unreal-Game/blob/main/Live%20Project/PickUp.PNG)
