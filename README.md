@@ -5,6 +5,6 @@ The goal is to find all the collectables and reach the end.
 I used free assets from the Unreal store and also edited assets to create my own ideas.
 ![Overall](https://github.com/NathanielRus/Unreal-Game/blob/main/Live%20Project/Overall.PNG)
 ## Custom Enemy:
-The mobs patroling the maze in the fog use sequences to pratrol and on collition damage the player.
+The mobs patroling the maze in the fog use sequences to pratrol and on collision damage the player.
 ![Enemy](https://github.com/NathanielRus/Unreal-Game/blob/main/Live%20Project/Animations/Enemy.gif)
  
