@@ -11,7 +11,7 @@ The mobs patroling the maze in the fog use sequences to pratrol and on collision
  I used Blueprinting for my games operation.
  ![Player Controls](https://github.com/NathanielRus/Unreal-Game/blob/main/Live%20Project/Player%20Controls.PNG)
 ## Puzzle:
-I used 3 pressure plates that needed to be pressed all at the same time to open the door. This was accomplished by picking up boxes and placing them on the buttons.
+I used 3 pressure plates that needed to be pressed all at the same time to open the door. This was accomplished by picking up boxes and placing them on the buttons. I then used an interface to connect the door to the buttons.
 ![BoxButton](https://github.com/NathanielRus/Unreal-Game/blob/main/Live%20Project/BoxButton.PNG)
 ![Buttons](https://github.com/NathanielRus/Unreal-Game/blob/main/Live%20Project/Buttons.PNG)
 ![PickUp](https://github.com/NathanielRus/Unreal-Game/blob/main/Live%20Project/PickUp.PNG)
